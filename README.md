@@ -25,3 +25,7 @@ O layout do dashboard foi estruturado de forma intuitiva, explorando recursos co
 ---
 
 > **Observação:** Para executar este projeto, basta ter o Python instalado e rodar o comando `streamlit run app.py` dentro da pasta do projeto.
+
+## Link do Streamlit
+
+-[https://tarefafinal-dxkbznxaqgbjm4k9qzksapp.streamlit.app/]
