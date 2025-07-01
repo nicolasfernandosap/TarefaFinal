@@ -8,7 +8,7 @@ Este trabalho tem como objetivo investigar a ocorrência de incêndios florestai
 
 Para a geração dos gráficos, serão utilizadas as bibliotecas Plotly e Matplotlib, que possibilitam a criação de visualizações claras, interativas e informativas. Além disso, o projeto contará com a construção de um dashboard organizado no Streamlit, uma ferramenta prática para criação de aplicações web de ciência de dados.
 
-O layout do dashboard foi estruturado de forma intuitiva, explorando recursos como st.sidebar, st.tabs e st.columns para facilitar a navegação e a interação do usuário com os diferentes conjuntos de informações apresentadas. Assim, espera-se fornecer uma análise visual abrangente que auxilie na compreensão da distribuição temporal e espacial dos incêndios florestais no país.
+O layout do dashboard foi estruturado de forma intuitiva, explorando recursos como st.sidebar, st.columns para facilitar a navegação e a interação do usuário com os diferentes conjuntos de informações apresentadas. Assim, espera-se fornecer uma análise visual abrangente que auxilie na compreensão da distribuição temporal e espacial dos incêndios florestais no país.
 
 ## Informações
 
